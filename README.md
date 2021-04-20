@@ -7,7 +7,7 @@ While it is currently a WIP, feel free to take a look at the projects tab to see
 This project was sparked from a need to be able to analyze investment assets at a glance, in order to identify potential situations where a portfolio may be taking on too much downside risk according to the portfolio’s goals. Can I create a system that can run with up to the minute data in order to give me the overall health of my portfolio? If I were to do that, it would be in a dashboard format that I could run indefinitely. It would automatically update based on trades and changes to the portfolio that I make within TD Ameritrade, and give me information to help me make informed decisions without having to manually run complex calculations. The data would be from the TD Ameritrade API, and so it would be constantly updated, but not live streamed data. Potential issues would be accessing the API, potentially delayed data, TD Ameritrade’s services not operating as anticipated on their end, and getting the application to run autonomously. 
 
 ![Beta Tool Tip](assets/image2.png)
-![News Tool Tip](assets/image.png).
+
 ![Account Total and Beta Tool Tip](assets/image3.png)
 
 # Motivation
