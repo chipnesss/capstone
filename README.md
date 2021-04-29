@@ -15,14 +15,23 @@ This project was sparked from a need to be able to analyze investment assets at 
 ### Tooltip: Account Balance and Account Beta
 ![Account Total and Beta Tool Tip](assets/image3.png)
 
-### Tooltip: Beta data points show additional bits of info needed for quickly making decisions
+### Filter by and analyze Beta.  These data points show additional bits of info needed for quickly making decisions
 ![Beta Tool Tip](assets/image2.png)
 
 ### Tooltip: Scrolling over news summaries will give you a quick and easily consumable version of the article
 ![News Tool Tip](assets/image4.png)
 
-### Search: Quickly change the chart and select which stock you are analyzing based on the symbol
+### Quickly change the chart and select which stock you are analyzing based on the symbol
 ![Symbol Search](assets/image5.png)
+
+### Tooltip: Hovering over the 1 Minute chart will show more information about the time, stock price, and percent change.
+![1 Minute Chart](assets/image6.png)
+
+### Review the weight and beta of flagged positions
+![Weight & Risk](assets/image7.png)
+
+### Filter by and analyze the % P/L Day.
+![% P/L Day](assets/image8.png)
 
 # Motivation
 
@@ -54,7 +63,7 @@ If so, can that same program convey that information to me in a concise and mean
 - Live stream data flow
 
 # Data Sources
-This project will pull data from the [TD Ameritrade API](https://developer.tdameritrade.com/apis) service.
+This project will pull data from the [TD Ameritrade API](https://developer.tdameritrade.com/apis) service, along with the [Yahoo Finance API](https://rapidapi.com/apidojo/api/yahoo-finance1)
 
 # Known Issues and Challenges
 - Working with TD Ameritrade API to pull up to the minute data. 
